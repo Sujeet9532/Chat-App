@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "451207559909",
+    "project_id": "studentform-5432c",
+    "storage_bucket": "studentform-5432c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451207559909:android:ed948785f557d7a965320c",
+        "android_client_info": {
+          "package_name": "com.sujeet.whatsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvLQ2qTVsWagIrn_gsqxmBz-QqDUxJfo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451207559909:android:e6daab1b857232e765320c",
+        "android_client_info": {
+          "package_name": "digi.coders.studentform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvLQ2qTVsWagIrn_gsqxmBz-QqDUxJfo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

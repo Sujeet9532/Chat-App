@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:title="Settings"
+        android:icon="@drawable/settings"
+        android:id="@+id/menusetting"></item>
+
+    <item android:title="Camera"
+        app:showAsAction="always"
+        android:icon="@drawable/camra"
+        android:id="@+id/menucamra"></item>
+
+    <item android:title="New Group"
+        android:id="@+id/menunewgroup"></item>
+
+    <item android:title="Linked device"
+        android:id="@+id/menuLinkivesc"></item>
+
+    <item android:title="Logout"
+        android:icon="@drawable/settings"
+        android:id="@+id/logout"></item>
+
+</menu>
